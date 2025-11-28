@@ -6,6 +6,6 @@ class Program
     {
         Console.WriteLine("Game Started!");
         Console.WriteLine("Loading...");
-	Console.WriteLine("Vegas is Here!");
+	    Console.WriteLine("Vegas is Here!");
     }
 }
