@@ -131,7 +131,7 @@ class Program
 }
 ```
 
-**- Exercise 8: <span style="color:#FFD700;">Even or Odd?</span> Temperature Converter :**
+**- Exercise 8: <span style="color:#FFD700;">Temperature Converter</span> Task :**
 ```
 using System;
 
@@ -147,7 +147,7 @@ class Program
 }
 ```
 
-**- Exercise 9: <span style="color:#FFD700;">Even or Odd?</span> Number Swapper :**
+**- Exercise 9: <span style="color:#FFD700;">Number Swapper</span> Task :**
 ```
 using System;
 
@@ -170,7 +170,7 @@ class Program
 }
 ```
 
-**- Exercise 10: <span style="color:#FFD700;">Even or Odd?</span> Simple Multiplication Table :**
+**- Exercise 10: <span style="color:#FFD700;">Simple Multiplication Table</span> Task :**
 ```
 using System;
 
