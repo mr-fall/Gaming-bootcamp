@@ -12,7 +12,7 @@
 ### 🎡 The Evolution of the Floor
 | Era | The Venue | The Jackpot Game |
 | :--- | :--- | :--- |
-| **Golden Age** | **The Public Arcade:** Social, loud, and coin-operated. | *Pac-Man* |
+| **Golden Age** | **The Public Arcade:** Social, loud, and coin-operated. | *Vegas* |
 | **Modern Era** | **The Private Suite:** Online, global, and home-based. | *World of Warcraft* |
 
 ### 🥊 The 16-Bit Heavyweight Title Fight
