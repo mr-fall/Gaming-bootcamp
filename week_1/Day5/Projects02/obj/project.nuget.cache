@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3cBDX/9SjA=",
+  "dgSpecHash": "Vwz1nCFZvUw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
+  "projectFilePath": "C:\\Users\\agadi\\Desktop\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agadi\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\agadi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
