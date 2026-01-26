@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agadi\\Desktop\\GENai-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj": {}
+    "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agadi\\Desktop\\GENai-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj": {
+    "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agadi\\Desktop\\GENai-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
+        "projectUniqueName": "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
         "projectName": "PersonalExpenseTracker",
-        "projectPath": "C:\\Users\\agadi\\Desktop\\GENai-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
+        "projectPath": "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\PersonalExpenseTracker.csproj",
         "packagesPath": "C:\\Users\\agadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agadi\\Desktop\\GENai-bootcamp\\week_1\\Day5\\Projects02\\obj\\",
+        "outputPath": "C:\\Users\\agadi\\Desktop\\VeGAS\\Gaming-bootcamp\\week_1\\Day5\\Projects02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agadi\\AppData\\Roaming\\NuGet\\NuGet.Config"
